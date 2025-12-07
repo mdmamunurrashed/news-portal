@@ -1,6 +1,9 @@
 # 📰 News Portal - Simple CRUD Application
 
 A full-featured news portal built with vanilla JavaScript and JSON-Server, allowing users to create, read, update, and delete news articles with comments.
+Md. Mamun Ur Rashed, 2506120
+EMIT, IIT
+WTIC, A1
 
 ## ✨ Features
 
