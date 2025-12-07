@@ -57,7 +57,7 @@ news-portal/
 ├── news-detail.html    # News details with comments
 ├── edit-news.html      # Edit existing news
 ├── db.json             # Database (Mock JSON Server)
-└── NewsPortal.pdf      # Assignment Requirements
+└── NewsPortal.pdf      # Assignment Requirements 
 ```
 
 ## 🛠️ Technologies Used
