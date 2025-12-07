@@ -77,11 +77,8 @@ news-portal/
 | PATCH | `/news/:id` | Update news |
 | DELETE | `/news/:id` | Delete news |
 
-
 ## 👨‍💻 Author
 
 Md. Mamun Ur Rashed - [GitHub](https://github.com/mdmamunurrashed)
-
----
 
 ⭐ Star this repo if you find it helpful!
